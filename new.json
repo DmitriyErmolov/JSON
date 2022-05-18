@@ -1,0 +1,10 @@
+{
+"name":"Dmitry",
+"age":26,
+"salary":30000,
+"friends":{
+	"name":"Igor",
+	"name":"Evgeny",
+	"name":"Alex"
+	  }
+}
